@@ -50,7 +50,7 @@ PhantomPong/
 
 ## 📜 License
 
-This project is open source under the [BSD 2-Clause License](LICENSE). Raylib itself uses the zlib/libpng license.
+This project is open source under the [BSD 3-Clause License](LICENSE). Raylib itself uses the zlib/libpng license.
 
 ---
 
